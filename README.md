@@ -2,7 +2,8 @@
 
 ## 公司名字: 
 #### 千界，www.qianjie.com，
-#### 大沟科技
+#### 大沟科技，www.dagou.com
+#### 千寻，www.dchihiro.com
 
 ## 头脑风暴想法清单
 #### TikTok 破解版
