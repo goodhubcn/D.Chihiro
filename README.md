@@ -1,7 +1,9 @@
 # D.Chihiro
 头脑风暴想法清单
 
-## 公司名字: 千界，www.qianjie.com，大沟科技
+## 公司名字: 
+#### 千界，www.qianjie.com，
+#### 大沟科技
 
 ## TikTok 破解版
 ## 视频、照片剪辑app，Android、iOS两个版本
