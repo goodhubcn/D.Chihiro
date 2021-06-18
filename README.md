@@ -1,7 +1,7 @@
 # D.Chihiro
 
 ## 公司名字: 
-#### 千界，www.qianjie.com，
+#### 千界网络，www.qianjiew.com，
 #### 大沟科技，www.dagou.com
 #### 千寻，www.dchihiro.com
 
